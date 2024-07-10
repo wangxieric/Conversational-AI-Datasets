@@ -5,20 +5,21 @@ In this repository, we cover the research tasks of open-domain conversation, con
 ## Dataset Papers
 
 ### Open-domain Conversation Datasets
-Dataset | Paper | Link
---- | --- | ---
+Dataset | Paper
+--- | --- 
 
 
 ### Conversational Search Datasets
-Dataset | Paper | Link
---- | --- | ---
+Dataset | Paper 
+--- | --- 
 
 
 ### Conversational Recommendation Datasets
-Dataset | Paper | Link
---- | --- | ---
-ReDial | Towards Deep Conversational Recommendations | [link](https://proceedings.neurips.cc/paper_files/paper/2018/file/800de15c79c8d840f4e78d3af937d4d4-Paper.pdf)
-U-NEED | U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation | [link](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878)
+Dataset | Paper 
+--- | --- 
+ReDial | [Towards Deep Conversational Recommendations](https://proceedings.neurips.cc/paper_files/paper/2018/file/800de15c79c8d840f4e78d3af937d4d4-Paper.pdf)
+U-NEED | [U-NEED: A Fine-grained Dataset for User Needs-Centric E-commerce Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878)
+PEARL | [PEARL: A Review-Driven Persona-Knowledge Grounded Conversational Recommendation Dataset](https://arxiv.org/pdf/2403.04460)
 
 
 ### Multi-Task Conversational Datasets
