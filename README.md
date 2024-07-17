@@ -4,7 +4,7 @@ In this repository, we cover the research tasks of open-domain conversation, con
 
 ## Dataset Papers
 
-### Open-domain Conversation Datasets
+### Open-domain Conversational Datasets
 Dataset | #dialogues| collection |year | download 
 --- | --- | --- | --- | ---
 [MANtIS](https://arxiv.org/pdf/1912.04639v1)| 80,324 | Stack Exchange | 2019 |  [Download](https://guzpenha.github.io/MANtIS/)
