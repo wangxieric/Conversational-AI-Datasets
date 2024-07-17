@@ -16,11 +16,9 @@ Dataset | #dialogues | collection | year | download
 ### Conversational Search Datasets
 Dataset | #dialogues | Corpus Size | collection |year | download 
 --- | --- | --- | --- | --- | ---
-[CAsT-19](https://dl.acm.org/doi/pdf/10.1145/3397271.3401206) | 30 | 38,426,252 | Crowdsourcing | 2019 | [Download](https://github.com/daltonj/treccastweb)
-[CAsT-20](https://trec.nist.gov/pubs/trec29/papers/OVERVIEW.C.pdf) | 25 | 38,426,252 | Crowdsourcing | 2020 | [Download](https://github.com/daltonj/treccastweb)
-[OR-QuAC]() | 5,644 | 11,377,951 | Update QuAC for self-containment | 2020 | [Download](https://ciir.cs.umass.edu/downloads/ORConvQA/)
-[CAsT-21](https://trec.nist.gov/pubs/trec30/papers/Overview-CAsT.pdf) | 26 | 38,426,252 | Crowdsourcing | 2021 | [Download](https://github.com/daltonj/treccastweb)
-[CAsT-22](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf) | 18 | 17 million | Crowdsourcing | 2022 | [Download](https://github.com/daltonj/treccastweb)
+[CAsT-19,20,21,22](https://dl.acm.org/doi/pdf/10.1145/3397271.3401206) | 30 - 50 | 38,426,252 | Crowdsourcing | 2019 | [Download](https://github.com/daltonj/treccastweb)
+[OR-QuAC](https://arxiv.org/abs/2005.11364) | 5,644 | 11,377,951 | Update QuAC for self-containment | 2020 | [Download](https://ciir.cs.umass.edu/downloads/ORConvQA/)
+
 
 
 ### Conversational Recommendation Datasets
@@ -37,8 +35,8 @@ Dataset | #dialogues | #utternaces | domain | collection | language | year | dow
 ### Task-oriented Dialogue System Datasets
 Dataset | #dialogues | #utternaces | #domain | collection | language | year | download 
 --- | --- | --- | --- | --- | --- | --- | ---
-MultiWoZ
-SGD
+[MultiWoZ](https://arxiv.org/pdf/1810.00278) | 8,438 | 113,556 | 7 | Wizard-of-Oz | EN | 2018 | [Download](https://github.com/budzianowski/multiwoz) 
+[SGD](https://arxiv.org/abs/1909.05855) | 16,142 | 329,964 | 16 | outline simulation then crowdsourced paraphrasing | EN | 2020 |[Download](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue)
 
 ### Multi-Task Conversational Datasets
 Dataset | Paper | Link
