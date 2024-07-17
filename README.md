@@ -12,11 +12,11 @@ Dataset | #dialogues| collection |year | download
 ### Conversational Search Datasets
 Dataset | #dialogues | Corpus Size | collection |year | download 
 --- | --- | --- | --- | --- | ---
-CAsT-19 | 80 | 38,426,252 | Crowdsourcing | 2019 | [Download](https://github.com/daltonj/treccastweb)
-CAsT-20 | 50 | 38,426,252 | Crowdsourcing | 2020 | [Download](https://github.com/daltonj/treccastweb)
-OR-QuAC | 5,644 | 11,377,951 | Update QuAC for self-containment | 2020 | [Download](https://ciir.cs.umass.edu/downloads/ORConvQA/)
-CAsT-21 | 50 | 38,426,252 | Crowdsourcing | 2021 | [Download](https://github.com/daltonj/treccastweb)
-CAsT-22 | 50 | 38,426,252 | Crowdsourcing | 2022 | [Download](https://github.com/daltonj/treccastweb)
+[CAsT-19](https://dl.acm.org/doi/pdf/10.1145/3397271.3401206) | 30 | 38,426,252 | Crowdsourcing | 2019 | [Download](https://github.com/daltonj/treccastweb)
+[CAsT-20](https://trec.nist.gov/pubs/trec29/papers/OVERVIEW.C.pdf) | 25 | 38,426,252 | Crowdsourcing | 2020 | [Download](https://github.com/daltonj/treccastweb)
+[OR-QuAC]() | 5,644 | 11,377,951 | Update QuAC for self-containment | 2020 | [Download](https://ciir.cs.umass.edu/downloads/ORConvQA/)
+[CAsT-21](https://trec.nist.gov/pubs/trec30/papers/Overview-CAsT.pdf) | 26 | 38,426,252 | Crowdsourcing | 2021 | [Download](https://github.com/daltonj/treccastweb)
+[CAsT-22](https://trec.nist.gov/pubs/trec31/papers/Overview_cast.pdf) | 18 | 17 million | Crowdsourcing | 2022 | [Download](https://github.com/daltonj/treccastweb)
 
 
 ### Conversational Recommendation Datasets
