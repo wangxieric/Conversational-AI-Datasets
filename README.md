@@ -2,11 +2,12 @@
 This repository aggregates datasets that can be used to develop conversational AI techniques.
 In this repository, we cover the research tasks of open-domain conversation, conversational recommendation and conversational search.
 
-## Dataset Papers
+## Datasets
 
-### Open-domain Conversational Datasets
-Dataset | #dialogues| collection |year | download 
---- | --- | --- | --- | ---
+### Conversational Question Answering Datasets
+Dataset | #dialogues | collection | year | download 
+--- | --- | --- | --- | --- 
+[QuAC](https://arxiv.org/pdf/1808.07036) | 13,569 | Crowdsourcing | 2018 | [Download](https://quac.ai/)
 [MANtIS](https://arxiv.org/pdf/1912.04639v1)| 80,324 | Stack Exchange | 2019 |  [Download](https://guzpenha.github.io/MANtIS/)
 
 ### Conversational Search Datasets
