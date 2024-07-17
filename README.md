@@ -5,13 +5,18 @@ In this repository, we cover the research tasks of open-domain conversation, con
 ## Dataset Papers
 
 ### Open-domain Conversation Datasets
-Dataset | Paper
---- | --- 
-
+Dataset | #dialogues| collection |year | download 
+--- | --- | --- | --- | ---
+[MANtIS](https://arxiv.org/pdf/1912.04639v1)| 80,324 | Stack Exchange | 2019 |  [Download](https://guzpenha.github.io/MANtIS/)
 
 ### Conversational Search Datasets
-Dataset | Paper 
---- | --- 
+Dataset | #dialogues | Corpus Size | collection |year | download 
+--- | --- | --- | --- | --- | ---
+CAsT-19 | 80 | 38,426,252 | Crowdsourcing | 2019 | [Download](https://github.com/daltonj/treccastweb)
+CAsT-20 | 50 | 38,426,252 | Crowdsourcing | 2020 | [Download](https://github.com/daltonj/treccastweb)
+OR-QuAC | 5,644 | 11,377,951 | Update QuAC for self-containment | 2020 | [Download](https://ciir.cs.umass.edu/downloads/ORConvQA/)
+CAsT-21 | 50 | 38,426,252 | Crowdsourcing | 2021 | [Download](https://github.com/daltonj/treccastweb)
+CAsT-22 | 50 | 38,426,252 | Crowdsourcing | 2022 | [Download](https://github.com/daltonj/treccastweb)
 
 
 ### Conversational Recommendation Datasets
@@ -21,7 +26,8 @@ Dataset | #dialogues | #utternaces | domain | collection | language | year | dow
 [OpenDialKG](https://aclanthology.org/P19-1081.pdf) | 12,320 | 71,873 | Movies & Books | KG-walk Crowdsourcing | ENG | 2019 | [Download](https://github.com/facebookresearch/opendialkg)
 [INSPIRED](https://aclanthology.org/2020.emnlp-main.654.pdf) | 1,001 | 35,811 | Movie | Social-encouraged crowdsourcing (AMT) | ENG | 2020 | [Download](https://github.com/sweetpeach/Inspired)
 [TG-ReDial](https://arxiv.org/pdf/2010.04125) | 10,000 | 129,392 | Movie | Topic-driven generation, crowdsourcing |  CHN | 2020 |[Download](https://drive.google.com/drive/folders/1sWD6urkwyZo8ZyZBJoJw40eKK0jDNEni)
-[U-NEED](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878) | 7,698 | 53,712 | e-commerce | pre-sales dialogues from Taobao | CHN | 2023 | [Download](https://github.com/LeeeeoLiu/U-NEED/blob/main/dataset_access.md) 
+[DuRecDial2.0](https://aclanthology.org/2021.emnlp-main.356.pdf) | 16,482 |  255,346 | Movie, music, star, food, restaurant, weather | translation from DuRecDial (crowdsourced) | ENG, CHN | 2021 | [Download](https://github.com/liuzeming01/DuRecDial)
+[U-NEED](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878) | 7,698 | 53,712 | e-commerce | pre-sale dialogues from Taobao | CHN | 2023 | [Download](https://github.com/LeeeeoLiu/U-NEED/blob/main/dataset_access.md) 
 [PEARL](https://arxiv.org/pdf/2403.04460) | 57,277 | 548,061 | Movie | review-based syntheic dialogues | ENG | 2024 | [Download](https://huggingface.co/datasets/DLI-Lab/pearl) 
 
 
