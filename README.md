@@ -9,6 +9,9 @@ Dataset | #dialogues | collection | year | download
 --- | --- | --- | --- | --- 
 [QuAC](https://arxiv.org/pdf/1808.07036) | 13,569 | Crowdsourcing | 2018 | [Download](https://quac.ai/)
 [MANtIS](https://arxiv.org/pdf/1912.04639v1)| 80,324 | Stack Exchange | 2019 |  [Download](https://guzpenha.github.io/MANtIS/)
+[CoQA](https://arxiv.org/pdf/1808.07042) | 8,399 | Crowdsourcing | 2019 |[Download](https://stanfordnlp.github.io/coqa/)
+[ShARC](https://arxiv.org/pdf/1809.01494) | 948 | Crowdsourcing | 2018 | [Download](https://sharc-data.github.io/data.html)
+[MSDialog](https://arxiv.org/pdf/1804.08759) | 2,199 | Microsoft Community | 2018 | [Download](https://ciir.cs.umass.edu/downloads/msdialog/)
 
 ### Conversational Search Datasets
 Dataset | #dialogues | Corpus Size | collection |year | download 
@@ -31,6 +34,11 @@ Dataset | #dialogues | #utternaces | domain | collection | language | year | dow
 [U-NEED](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878) | 7,698 | 53,712 | e-commerce | pre-sale dialogues from Taobao | CHN | 2023 | [Download](https://github.com/LeeeeoLiu/U-NEED/blob/main/dataset_access.md) 
 [PEARL](https://arxiv.org/pdf/2403.04460) | 57,277 | 548,061 | Movie | review-based syntheic dialogues | ENG | 2024 | [Download](https://huggingface.co/datasets/DLI-Lab/pearl) 
 
+### Task-oriented Dialogue System Datasets
+Dataset | #dialogues | #utternaces | #domain | collection | language | year | download 
+--- | --- | --- | --- | --- | --- | --- | ---
+MultiWoZ
+SGD
 
 ### Multi-Task Conversational Datasets
 Dataset | Paper | Link
