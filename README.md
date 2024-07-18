@@ -29,6 +29,7 @@ Dataset | #dialogues | #utternaces | domain | collection | language | year | dow
 [INSPIRED](https://aclanthology.org/2020.emnlp-main.654.pdf) | 1,001 | 35,811 | Movie | Social-encouraged crowdsourcing (AMT) | ENG | 2020 | [Download](https://github.com/sweetpeach/Inspired)
 [TG-ReDial](https://arxiv.org/pdf/2010.04125) | 10,000 | 129,392 | Movie | Topic-driven generation, crowdsourcing |  CHN | 2020 |[Download](https://drive.google.com/drive/folders/1sWD6urkwyZo8ZyZBJoJw40eKK0jDNEni)
 [DuRecDial2.0](https://aclanthology.org/2021.emnlp-main.356.pdf) | 16,482 |  255,346 | Movie, music, star, food, restaurant, weather | translation from DuRecDial (crowdsourced) | ENG, CHN | 2021 | [Download](https://github.com/liuzeming01/DuRecDial)
+[INSPIRED2](https://ceur-ws.org/Vol-3294/long5.pdf) | 1,001 | 35,811 | Movie | clean & augment INSPIRED | ENG | 2022 | [Download](https://github.com/ahtsham58/INSPIRED2/tree/main)
 [U-NEED](https://dl.acm.org/doi/pdf/10.1145/3539618.3591878) | 7,698 | 53,712 | e-commerce | pre-sale dialogues from Taobao | CHN | 2023 | [Download](https://github.com/LeeeeoLiu/U-NEED/blob/main/dataset_access.md) 
 [PEARL](https://arxiv.org/pdf/2403.04460) | 57,277 | 548,061 | Movie | review-based syntheic dialogues | ENG | 2024 | [Download](https://huggingface.co/datasets/DLI-Lab/pearl) 
 
